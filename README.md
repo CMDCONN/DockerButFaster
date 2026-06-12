@@ -1,4 +1,4 @@
-# DockerButFaster
+# DockerButFaster (UBUNTU BRANCH)
 
 A simple shell-based tool that installs Docker on your system and manages which users have permission to run Docker commands without `sudo`.
 
